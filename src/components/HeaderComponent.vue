@@ -6,9 +6,13 @@
 
 <script>
     export default {
-        components: {
-            HeaderComponent
+        name: 'HeaderComponent',
+        data() {
+            return {
+
+            }
         }
+        
     }
 </script>
 
