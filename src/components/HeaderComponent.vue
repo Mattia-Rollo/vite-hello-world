@@ -47,7 +47,7 @@ z-index: -1;
 -ms-filter: blur(5px); */
  /* filter: blur(20px); */
  background-color: rgba(0, 150, 150, 0.3);
- backdrop-filter: blur(20px);
+ backdrop-filter: blur(30px);
 
 }
 </style>

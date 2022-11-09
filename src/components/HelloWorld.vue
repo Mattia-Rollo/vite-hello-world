@@ -3,7 +3,7 @@ export default {
   data() {
     return{
       count: 0,
-      msg: 'Hello world'
+      msg: 'La mia prima app con Vite!'
     }
   }
 }
