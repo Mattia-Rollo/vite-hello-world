@@ -1,6 +1,6 @@
 <template>
     <div id="hero">
-        <img src="/public/og-image-announcing-vite3.png" alt="">
+        <img src="/og-image-announcing-vite3.png" alt="">
     </div>
 </template>
 
