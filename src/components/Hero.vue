@@ -19,7 +19,7 @@
     #hero{
         /* position: sticky; */
         left: 0;
-        width: 100vw;
+        width: 100%;
         height: 500px;
         /* height: 100vh; */
         background-color: aqua;
