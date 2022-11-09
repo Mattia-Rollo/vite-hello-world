@@ -1,11 +1,13 @@
 <script >
 import HelloWorld from './components/HelloWorld.vue'
 import HeaderComponent from './components/HeaderComponent.vue';
+import Hero from './components/Hero.vue';
 
 export default {
   components: {
     HelloWorld,
-    HeaderComponent
+    HeaderComponent,
+    Hero,
   },
   data() {
     return{
@@ -17,8 +19,9 @@ export default {
 </script>
 
 <template>
-  <div>
    <HeaderComponent/>
+   <Hero/>
+  <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
