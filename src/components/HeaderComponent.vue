@@ -17,7 +17,7 @@
     }
 </script>
 
-<style scoped>
+<style scoped lang="css">
     h1 {
         
         
